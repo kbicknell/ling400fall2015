@@ -32,7 +32,7 @@ The high level goal of this part of the assignment is to explore how differences
       
       Note: tokenization must be performed first before normalization. To make this simple, you can use Lucene to tokenize prior to applying the Lucene normalization algorithms and use CoreNLP to tokenizer prior to applying the CoreNLP normalization algorithms.
       
-3. **Tokenization and normalization.** You will decide on a tokenization and normalization algorithm to apply to `classbios.txt` from the previous assignment. Make an argument as to why you selected that particular tokenization and normalization algorithm. Include your normalized `classbios.txt` file in the zip.
+3. **Tokenization and normalization.** You will decide on a tokenization and normalization algorithm to apply to `classbios.txt` from the previous assignment. Make an argument as to why you selected that particular tokenization and normalization algorithm. Format the output so that there is one sentence per line and each token is separated by a space. Include your normalized `classbios.txt` file in the zip.
 
 4. **Basic frequency analysis.** Write a program to calculate the frequency of each (normalized) word in the normalized `classbios.txt` corpus. Report the top 20 most frequent words, excluding stop words and punctuation, and their frequencies. Describe whether you think this list gives much information about this corpus. Did you learn anything about the backgrounds of the class?
 
