@@ -1,4 +1,4 @@
-hwbase=hw0 hw1 hw2
+hwbase=hw0 hw1 hw2 hw3
 hwhtml=$(addsuffix .html, $(hwbase))
 all : $(hwhtml)
 
