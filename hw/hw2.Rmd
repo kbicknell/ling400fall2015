@@ -7,7 +7,7 @@ output:
 ---
 _parts adapted from Jorge Moraleda_
 
-**Turning it in**: You'll turn in a zip file via Canvas that contains (a) a write-up as a pdf and (b) the other items described below.
+**Turning it in**: You'll turn in a zip file via Canvas that contains (a) a pdf write-up of the answers to the specific questions described below and (b) the other items described below.
 
 ## Tokenization and normalization
 The high level goal of this part of the assignment is to explore how differences in preprocessing can affect text analytic results. This also serves to introduce [Apache Lucene Core](https://lucene.apache.org/core/), a powerful text indexing and retrieval library widely used in industry, which we will also be using for later assignments.
